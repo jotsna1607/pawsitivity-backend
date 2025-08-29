@@ -22,7 +22,7 @@ return [
     'allowed_origins' => [
         'http://localhost:3000',          // local dev
         'http://127.0.0.1:3000',          // local dev
-        'https://pawsitivity-pets.netlify.app/home', //
+        'https://pawsitivity-pets.netlify.app/', //
     ],
 
     'allowed_origins_patterns' => [],
